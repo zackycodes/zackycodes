@@ -21,5 +21,5 @@ jobs:
         uses: czl9707/gh-space-shooter@main
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          username: ${{ github.repository_owner }}
+          username: ${{ github.zackycodes }}
           output-path: space-shooter.gif
