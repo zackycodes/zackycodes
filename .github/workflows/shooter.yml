@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: generate-space-shooter-video
-        uses: czl9707/gh-space-shooter@master
+        uses: czl9707/gh-space-shooter@main
         with:
           github_user_name: ${{ github.repository_owner }}
     
