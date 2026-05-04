@@ -2,19 +2,22 @@ name: Generate Space Shooter
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs every night at midnight
-  workflow_dispatch: # Allows you to run it manually
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
+
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
       - name: generate-space-shooter-video
         uses: czl9707/gh-space-shooter@main
         with:
-          github_user_name: ${{ github.zackycodes }}
-    
-          output-path: space-shooter.gif
           github-token: ${{ secrets.GITHUB_TOKEN }}
-
-
+          username: ${{ github.zackycodes }}
+          output-path: space-shooter.gif
