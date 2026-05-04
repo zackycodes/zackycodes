@@ -1,0 +1,18 @@
+name: Generate Space Shooter
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs every night at midnight
+  workflow_dispatch: # Allows you to run it manually
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: generate-space-shooter-video
+        uses: czl9707/gh-space-shooter@master
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          # The file will be saved to the branch we created in Step 1
+          output_branch: output
+          output_path: space-shooter.gif
