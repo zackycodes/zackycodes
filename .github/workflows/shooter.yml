@@ -12,7 +12,7 @@ jobs:
       - name: generate-space-shooter-video
         uses: czl9707/gh-space-shooter@main
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: ${{ github.zackycodes }}
     
           output_branch: output
           output_path: space-shooter.gif
