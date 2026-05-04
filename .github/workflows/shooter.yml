@@ -11,13 +11,15 @@ jobs:
     permissions:
       contents: write
     steps:
-
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          # This ensures the full history is pulled so git can push changes
+          fetch-depth: 0
 
       - name: generate-space-shooter-video
-        uses: cz19707/gh-space-shooter@main
+        uses: czl9707/gh-space-shooter@main
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          username: ${{ github.zackycodes }}
+          username: ${{ github.repository_owner }}
           output-path: space-shooter.gif
