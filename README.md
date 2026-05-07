@@ -6,6 +6,7 @@ idk how to rite code
 - 🌱 I'm currently learning: Python; webscraping
 - 💬 Don't ask me about: Why my code isn't working.
 
+---
 
 ## 📊 Flex.
 <p align="left">
