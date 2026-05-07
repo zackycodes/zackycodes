@@ -4,5 +4,5 @@
 
 ![My GitHub Game](game.gif)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zackycodes&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zackycodes&layout=compact&theme=radical)
 
