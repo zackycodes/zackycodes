@@ -11,5 +11,6 @@ idk how to rite code
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zackycodes&theme=tokyonight" alt="Stats" width="400" />
 </p>
 
+![My GitHub Game](game.gif)
 ---
 *Generated with ❤️ and a lot of confusion.*
