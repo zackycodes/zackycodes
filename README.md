@@ -8,7 +8,7 @@ idk how to rite code
 
 ### 📊 Flex.
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zackycodes&theme=tokyonight" alt="Stats" width="800" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zackycodes&theme=tokyonight" alt="Stats" width="500" />
 </p>
 
 ![My GitHub Game](game.gif)
