@@ -1,8 +1,15 @@
-###### i dont know how to rite code 
+# yo
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zackycodes&theme=tokyonight)
+idk how to rite code
 
-![My GitHub Game](game.gif)
+### 🛠 Learning Journey
+- 🌱 I'm currently learning: Python; webscraping
+- 💬 Don't ask me about: Why my code isn't working.
 
+### 📊 Flex.
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zackycodes&theme=tokyonight" alt="Stats" width="400" />
+</p>
 
-
+---
+*Generated with ❤️ and a lot of confusion.*
