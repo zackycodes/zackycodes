@@ -13,4 +13,4 @@ idk how to rite code
 
 ![My GitHub Game](game.gif)
 ---
-*Generated with ❤️ and a lot of confusion.*
+
