@@ -7,7 +7,7 @@
 ### 🎯 Plans
 > "Artificial Intelligence is no match for natural stupidity."
 
-*   **Current Hyperfixation:** Tuning NNUEs and whispering sweet nothings to LLMs.
+*   **Current Hyperfixation:** Tuning NNUEs and whispering secrets to LLMs.
 *   **The Goal:** Build something that works. Eventually.
 *   **The Rule:** If you ask me why the code broke, I will simply delete the repository.
 
