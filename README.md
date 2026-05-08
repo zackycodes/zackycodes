@@ -1,4 +1,4 @@
-# 🛸 system.out.print("hello world")
+# 🛸 Hello World!
 
 **I’m zack** — a professional over-thinker currently masquerading as a Machine Learning enthusiast. I spend 10% of my time training models and 90% of my time wondering why the loss function is increasing.
 
