@@ -1,10 +1,10 @@
 # 🛸 system.out.print("hello world")
 
-**I’m [Your Name]** — a professional over-thinker currently masquerading as a Machine Learning enthusiast. I spend 10% of my time training models and 90% of my time wondering why the loss function is increasing.
+**I’m zack** — a professional over-thinker currently masquerading as a Machine Learning enthusiast. I spend 10% of my time training models and 90% of my time wondering why the loss function is increasing.
 
 ---
 
-### 🧠 The Brain Dump
+### 🎯 Plans
 > "Artificial Intelligence is no match for natural stupidity."
 
 *   **Current Hyperfixation:** Tuning NNUEs and whispering sweet nothings to LLMs.
@@ -26,17 +26,16 @@
 ### 📈 Proof of Life
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zackycodes&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zackycodes&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
 
-### 🕹️ The Arcade
 <p align="center">
   <img src="game.gif" width="600" style="border-radius: 10px;" />
 </p>
 
 <p align="center">
-  <sub>Built with ☕ and desperation.</sub>
+  <sub>Built with ☕ and sleep deprivation.</sub>
 </p>
