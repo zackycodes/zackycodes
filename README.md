@@ -1,28 +1,42 @@
-# yo
+# 🛸 system.out.print("hello world")
 
-idk how to rite code
-
-## 🛠 Learning Journey
-* 🌱 Working on: LLMs,ML,DL,NNUE's,NLP's
-* 💬 Don't ask me about: Why my code isn't working.
-
-## Languanges
-Bad at:\
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-<br>
-Worse at:\
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
+**I’m [Your Name]** — a professional over-thinker currently masquerading as a Machine Learning enthusiast. I spend 10% of my time training models and 90% of my time wondering why the loss function is increasing.
 
 ---
 
-## 📊 Flex.
+### 🧠 The Brain Dump
+> "Artificial Intelligence is no match for natural stupidity."
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zackycodes&theme=tokyonight" alt="Stats" width="500" />
+*   **Current Hyperfixation:** Tuning NNUEs and whispering sweet nothings to LLMs.
+*   **The Goal:** Build something that works. Eventually.
+*   **The Rule:** If you ask me why the code broke, I will simply delete the repository.
+
+---
+
+### 🛠️ The "I'm Trying" Stack
+
+| Tier | Technologies |
+| :--- | :--- |
+| **Logic (Python)** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) |
+| **Chaos (JS/HTML)** | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **Core** | `ML` • `Deep Learning` • `NLP` • `Math (the hard kind)` |
+
+---
+
+### 📈 Proof of Life
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
-
-![My GitHub Game](game.gif)
 ---
 
+### 🕹️ The Arcade
+<p align="center">
+  <img src="game.gif" width="600" style="border-radius: 10px;" />
+</p>
+
+<p align="center">
+  <sub>Built with ☕ and desperation.</sub>
+</p>
