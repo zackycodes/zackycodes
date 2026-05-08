@@ -3,8 +3,8 @@
 idk how to rite code
 
 ## 🛠 Learning Journey
-🌱 Working on: LLMs,ML,DL,NNUE's,NLP's
-💬 Don't ask me about: Why my code isn't working.
+* 🌱 Working on: LLMs,ML,DL,NNUE's,NLP's
+* 💬 Don't ask me about: Why my code isn't working.
 
 ## Languanges
 Bad at:
